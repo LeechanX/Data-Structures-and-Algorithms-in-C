@@ -1,0 +1,14 @@
+1 7
+clanguage linux net os apue expert kernel
+clanguage	linux
+clanguage	net
+clanguage	os
+linux	os
+linux	apue
+net	expert
+os	net
+os	expert
+os	kernel
+apue	os
+apue	kernel
+kernel	expert

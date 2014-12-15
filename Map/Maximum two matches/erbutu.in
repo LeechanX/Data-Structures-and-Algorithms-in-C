@@ -1,0 +1,11 @@
+5	4
+m1	m2	m3	m4	m5
+t1	t2	t3	t4
+m1	t1
+m2	t1
+m2	t3
+m3	t2
+m3	t3
+m3	t4
+m4	t3
+m5	t3
