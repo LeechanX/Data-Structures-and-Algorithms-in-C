@@ -4,21 +4,13 @@
 
 ---
 
-## 📢 2026 特别更新：从理论到实战 (2026 Update)
+### 💡 简历包装与大厂求职参考
 
-很多同学反馈这些底层算法在 **大学课业 (Assignments)** 和 **大厂机考 (OA)** 中依然是重难点。为了帮助更多美/加/澳的 CS 留学生将这些底层逻辑转化为高分 GPA 和大厂 Offer，我整理了一份更系统的护航指南：
+做完开源项目不知道怎么写进简历？或者投递后频频被挂？
+推荐参考 **[BigTechCareer](https://bigtechcareer.com/)** 的真实 1v1 辅导复盘案例：
 
-### 👨‍🏫 Need 1v1 Mentorship or Career Coaching?
-**Struggling with CS assignments or preparing for SDE interviews?**
-As a contributor to high-performance C++ systems, I offer premium mentorship for CS students in **USA, Canada, and Australia**.
+* **AI / Agent 赛道**：[3年前端转型 Agent 开发拿下 AI 研究院 Offer](https://bigtechcareer.com/interview/ai/items/frontend-to-agent-research-inst.html)、[留学生靠 ReAct 架构实战逆袭 MiniMax](https://bigtechcareer.com/interview/ai/items/overseas-student-minimax-agent.html)
+* **后端高并发赛道**：[5年 Java 搞定系统设计拿到滴滴 Offer](https://bigtechcareer.com/interview/backend/items/java-system-design-didi.html)、[澳洲非 CS 转码靠项目差异化拿下后端 Offer](https://bigtechcareer.com/interview/backend/items/australia-noncs-backend-offer.html)
+* **前端与客户端赛道**：[4年前端攻克首屏优化与微前端拿到阿里 Offer](https://bigtechcareer.com/interview/frontend/items/frontend-performance-ali.html)
 
-* **Services:** Code Review, Assignment Guidance, Mock Interviews, and Career Path Planning.
-* **Get Started:** Check out my [2026 CS Study & Job Hacking Guide](https://github.com/LeechanX/2026-CS-Study-Job-Hacking-Guide) for details.
-
----
-
-### 🚀 课业护航与求职辅导 (面向美/加/澳留学生)
-**如果你正在为 CS 专业课业发愁，或者正在冲刺大厂 SDE 实习/校招：**
-作为现役大厂架构师，我深知从“刷题”到“工业级开发”的鸿沟。我将提供 1v1 纯手工代码指导与求职规划，拒绝低端代写，专注 GPA A+ 与大厂 Offer。
-
-* **联系方式：** 请通过另一个放哭 [2026 CS 护航指南](https://github.com/LeechanX/2026-CS-Study-Job-Hacking-Guide) 获取名片或访问官网。
+> 里面拆解了大厂面试官关注的工程细节、状态机容错与面评防守话术，非常适合用来找项目重构思路。
